@@ -1,0 +1,19 @@
+Game Quit Out: Draw
+
+Name: Odysseus
+HP: 25
+Stamina: 60
+Defense: 0
+Gold: 50
+Equiped Items: Bow of Odysseus 
+Inventory Items: 
+Potions: Lesser Health Potion 
+----------------------------
+Name: Argos
+HP: 130
+Stamina: 100
+Defense: 20
+Gold: 75
+Equiped Items: Argos' Fangs 
+Inventory Items: 
+Potions: 
